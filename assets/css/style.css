@@ -1,0 +1,53 @@
+body {
+    font-family: 'Fondamento', Georgia, 'Times New Roman', serif, cursive;
+    align-content: center;      
+    color: white;      
+    font-size: 1.5em;
+    font-weight: bold;
+    text-align:center;
+    vertical-align:center;
+    line-height: 36px;  
+}
+
+  .container {
+    display: flex;
+    justify-content: center;
+    background-color: black;   
+}
+
+  .center {      
+    width: 1024px;
+    height: 768px;
+    padding-top: 200px;      
+    background-image: url("https://www.onlinecasinomonsters.com/wp-content/uploads/2016/12/fortune_teller_background2.png");
+    background-repeat: no-repeat;
+  }
+
+  .wrapper {
+    padding-left: 330px;
+    padding-top: 195px;
+  }
+
+  #won {
+    color:rgb(70, 223, 243);
+    font-size: 1.5em;
+  }
+
+  #lost {
+    color: rgb(70, 223, 243);
+    font-size: 1.5em;
+  }
+
+  #attempts {
+    color: rgb(70, 223, 243);
+    font-size: 1.2em;
+  }
+
+  #playerGuess {
+    color:rgb(70, 223, 243);
+    font-size: 1.5em;
+  }
+
+  h1 {
+    font-size: 1.6em;
+  }
